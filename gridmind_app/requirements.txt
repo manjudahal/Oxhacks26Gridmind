@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+lightgbm
+scikit-learn
+joblib
+requests
+matplotlib
+streamlit
+google-genai
